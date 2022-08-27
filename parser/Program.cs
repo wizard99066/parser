@@ -18,7 +18,7 @@
 
 
 
-                /*   скрин работающей программы                [![2022-08-27-122358818.png](https://i.postimg.cc/Gm06HwhY/2022-08-27-122358818.png)](https://postimg.cc/fJK8rPdT)
+                /*   скрин работающей программы                https://i.postimg.cc/Gm06HwhY/2022-08-27-122358818.png)](https://postimg.cc/fJK8rPdT
                  */
 
 
